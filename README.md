@@ -62,7 +62,7 @@ VITE_CLOUDINARY_UPLOAD_PRESET=your_upload_preset
 npm run dev
 ```
 
-The app will be available at `https://localhost:5005` (HTTPS enabled via mkcert)
+The app will be available at `https://localhost:4100` (HTTPS enabled via mkcert)
 
 ### Build for Production
 
